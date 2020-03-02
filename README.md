@@ -1,4 +1,4 @@
-This repository is dedicated for my GitHub Pages duongquangduc.github.io and the useful links of Computer Science and Software Engineering Best Practices.
+This repository is dedicated for my GitHub Pages duongquangduc.github.io and the useful links hands-on and best practices in Computer Science and Software Engineering.
 
 ## The Fundamentals of Computer Science
 - **Data Structures and Algorithms**, GeeksforGeeks, [[link]](https://www.geeksforgeeks.org/data-structures).
