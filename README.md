@@ -1,4 +1,4 @@
-This repository is dedicated for my GitHub Pages: duongquangduc.github.io
+This repository is dedicated for my GitHub Pages duongquangduc.github.io and the useful links of Computer Science and Software Engineering.
 
 ## The Fundamentals of Computer Science
 - **Data Structures and Algorithms**, UC, [[link]](https://).
